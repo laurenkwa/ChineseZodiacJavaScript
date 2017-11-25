@@ -1,0 +1,26 @@
+td:nth-child(odd) {
+    background-color: #5c0fac;
+    color:yellow;
+}
+
+td:nth-child(even) {
+    background-color: #8b42d6;
+    color: white;
+}
+
+body {
+    text-align:center;
+    margin:auto;
+    min-width:100%;
+    font-family: arial;
+}
+
+h2 {
+    color: white;
+    background-color:#8b42d6;
+}
+
+table {
+    margin:auto;
+    width:100%;
+}
