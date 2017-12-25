@@ -10,7 +10,7 @@ Using javascript to create a dynamic table to display birth years under the corr
 
 Arrays and for loops were used to create the tables.
 
-Two pages were created that uses a one-dimensional array and a two-dimensional array respectively. 
+Two pages (1D and 2D) were created that use a one-dimensional array and a two-dimensional array respectively. 
 
 
 
